@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'SF TransRobotics Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SF TransRobotics Regular'), url('SFTransRobotics.woff') format('woff');
+}
+
+.title{
+    font-family: 'SF TransRobotics Regular';
+    font-size: 5em;
+    color: #191716;
+}
+
+.loading{
+    font-family: 'SF TransRobotics Regular';
+    font-size: 3em;
+    color: #191716;
+}
